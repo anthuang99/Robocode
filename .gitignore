@@ -1,0 +1,6 @@
+exec/robots/
+exec/config/
+
+# Project exclude paths
+/config/
+/exec/
